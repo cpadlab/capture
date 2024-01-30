@@ -24,18 +24,18 @@
 
 # Table of Contents
 
-1. [Download](https://github.com/14wual/capture#Install)
+1. [Download](https://github.com/14wual/capture#Download)
 2. [Usage](https://github.com/14wual/capture#Usage)
 3. [Usage Example](https://github.com/14wual/capture#Example)
 4. [Output](https://github.com/14wual/capture#Output)
 5. [License](https://github.com/14wual/capture/LICENSE)
 
 
-# Install
+# Download
 
 ```
-git clone https://github.com/14wual/capture!/
-cd capture!/ && pip install -r requirements.txt
+git clone https://github.com/14wual/capture/
+cd capture/ && pip install -r requirements.txt
 
 ```
 
