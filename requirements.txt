@@ -1,0 +1,15 @@
+# Requirements File for CTF Bypass Script
+# External Libraries
+argparse==1.4.0
+importlib-metadata==4.12.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+colorama==0.4.6
+
+# Python Standard Library
+datetime
+os
+re
+time
+functools
+webbrowser
