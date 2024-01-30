@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Capture ByPassing Debug Launch",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "--url", "http://10.10.10.10/login",
+                "-p", "passwords.txt",
+                "-u", "usernames.txt"
+            ],
+        }
+    ]
+}
