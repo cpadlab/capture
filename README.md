@@ -103,7 +103,7 @@ Capture!ByPass         Carlos Padilla (14wual)
 Author Web: https://14wual.github.io/
 CTF Room: https://tryhackme.com/room/capture
 ==============================================
-rURL: http://10.10.206.228
+TARGET: http://10.10.206.228
 ==============================================
 PassList Size: 1567
 UserList Size: 878
