@@ -95,7 +95,7 @@ CTF Room: {ROOM_LINK}
 {SEPARATOR}"""
     
     def _2(argsdict:dict, ddtthhmm:str):
-        return f"""rURL: {argsdict.get('url')}
+        return f"""TARGET: {argsdict.get('url')}
 {SEPARATOR}
 PassList Size: {argsdict.get('passlist_size')}
 UserList Size: {argsdict.get('userlist_size')}
