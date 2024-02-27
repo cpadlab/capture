@@ -4,16 +4,16 @@
 
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Code%20By%2014Wual-8338ec">
-    <img src="https://img.shields.io/github/downloads/14wual/capture/total">
-    <img src="https://img.shields.io/github/license/14wual/capture">
-    <img src="https://img.shields.io/tokei/lines/github/14wual/capture">
-    <img src="https://img.shields.io/github/stars/14wual/capture">
+    <img src="https://img.shields.io/badge/Code%20By%20CarlosPadilla-8338ec">
+    <img src="https://img.shields.io/github/downloads/cpadlab/capture/total">
+    <img src="https://img.shields.io/github/license/cpadlab/capture">
+    <img src="https://img.shields.io/tokei/lines/github/cpadlab/capture">
+    <img src="https://img.shields.io/github/stars/cpadlab/capture">
 </div>
 
-**Author**: Carlos Padilla (14wual)
+**Author**: Carlos Padilla (cpadlab)
 
-**Download**: https://github.com/14wual/capture#Install
+**Download**: https://github.com/cpadlab/capture#Install
 
 **Room Title**: Capture this!
 
@@ -24,17 +24,17 @@
 
 # Table of Contents
 
-1. [Download](https://github.com/14wual/capture#Download)
-2. [Usage](https://github.com/14wual/capture#Usage)
-3. [Usage Example](https://github.com/14wual/capture#Example)
-4. [Output](https://github.com/14wual/capture#Output)
-5. [License](https://github.com/14wual/capture/LICENSE)
+1. [Download](https://github.com/cpadlab/capture#Download)
+2. [Usage](https://github.com/cpadlab/capture#Usage)
+3. [Usage Example](https://github.com/cpadlab/capture#Example)
+4. [Output](https://github.com/cpadlab/capture#Output)
+5. [License](https://github.com/cpadlab/capture/LICENSE)
 
 
 # Download
 
 ```
-git clone https://github.com/14wual/capture/
+git clone https://github.com/cpadlab/capture/
 cd capture/ && pip install -r requirements.txt
 
 ```
@@ -42,7 +42,7 @@ cd capture/ && pip install -r requirements.txt
 # Usage
 
 ```bash
-┌──(wual㉿kali)-[~/capture]
+┌──(cpadlab㉿seccon)-[~/capture]
 └─$ python bypass.py --help  
 
 usage: bypass.py [-h] [-p PASSLIST] [-u USERLIST] --url URL
@@ -100,7 +100,7 @@ Capture!ByPass         Carlos Padilla (14wual)
                  | |                          
                  |_| (Code by 14Wual)
 ==============================================
-Author Web: https://14wual.github.io/
+Author Web: https://cpadlab.github.io/
 CTF Room: https://tryhackme.com/room/capture
 ==============================================
 TARGET: http://10.10.206.228
