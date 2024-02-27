@@ -88,7 +88,7 @@ class Banner:
  | |____ / ____ \| |_) | |_| |  | |_| |  __/_|
   \_____/_/    \_\ .__/ \__|_|   \__,_|\___(_)
                  | |                          
-                 |_| (Code by 14Wual)
+                 |_| (Code by cpadlan)
 {SEPARATOR}
 Author Web: {AUTHOR_URL}
 CTF Room: {ROOM_LINK}
@@ -386,7 +386,7 @@ class ByPass(Boot):
         
         request='';captcha_enabled = False
         while captcha_enabled == False:
-            request = ByPass.sendRequest(self=self, user='14wual', pswd="test")
+            request = ByPass.sendRequest(self=self, user='cpadlab', pswd="test")
             if 'Too many bad login attempts!' in request:
                 captcha_enabled = True
         
