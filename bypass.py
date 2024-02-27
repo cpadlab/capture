@@ -6,7 +6,7 @@
 # This script automates the process of bypassing login credentials in a CTF environment,
 # Specifically designed for the "Capture this!" CTF room on TryHackMe.
 # ====================================================================================================
-#  Author: CARLOS PADILLA (14wual)
+#  Author: CARLOS PADILLA (cpadlab)
 # ====================================================================================================
 
 import functools, argparse, os, importlib, requests
@@ -21,8 +21,8 @@ class ArgsError(Exception):pass
 # Proyect Info
 PROYECT_TITLE = 'Capture!ByPass'
 AUTHOR = 'Carlos Padilla'
-AUTHOR_NICKNAME = '14wual'
-AUTHOR_URL = 'https://14wual.github.io/'
+AUTHOR_NICKNAME = 'cpadlab'
+AUTHOR_URL = 'https://cpadlab.github.io/'
 ROOM_LINK = 'https://tryhackme.com/room/capture'
 SEPARATOR = '=' * 46
 
